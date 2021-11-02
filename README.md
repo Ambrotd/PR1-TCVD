@@ -4,7 +4,7 @@ Práctica realiza como parte del ;áster en Ciencia de Datos de la UOC, en la qu
 
 ## Instalación 
 Instalamos los paquetes
-``pip3 install -r requiremtents.txt``
+``pip3 install -r requirements.txt``
 
 El código ha sido creado para usar nordvpn para rotar entre vpns cuando idealista nos bloquea por bot.
 En caso de no querer usar nordvpn cambiar USENORDVPN a false. 
