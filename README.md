@@ -27,4 +27,4 @@ y las funciones para guardar el csv.
 
 ## Dataset
 
-El fichero madrid.csv ha sido subido a zenodo con DOI 10.5281/zenodo.5635678 acesible en https://zenodo.org/record/5635678
+El fichero madrid.csv ha sido subido a zenodo con DOI 10.5281/zenodo.5635678 accesible en https://zenodo.org/record/5635678
