@@ -5,8 +5,10 @@ Práctica realiza como parte del ;áster en Ciencia de Datos de la UOC, en la qu
 ## Instalación 
 Instalamos los paquetes
 ``pip3 install -r requiremtents.txt``
+
 El código ha sido creado para usar nordvpn para rotar entre vpns cuando idealista nos bloquea por bot.
 En caso de no querer usar nordvpn cambiar USENORDVPN a false. 
+
 Para que funcione hay que usar el driver correspondiente a nuestra versión de chrome para 
 que funcione selenium. En este caso el que se incluye es el de chrome 95 para windows.
 
